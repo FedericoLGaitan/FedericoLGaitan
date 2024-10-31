@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fede<img src="https://cdn3.emoji.gg/emojis/95582-coolhuh.png" width="64px" height="64px" alt="coolhuh"/></h1>
+<h3 align="center">learning and build cool stuff</h3>
 
 <!--
 **FedericoLGaitan/FedericoLGaitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
